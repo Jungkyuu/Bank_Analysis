@@ -35,7 +35,8 @@ The dashboard shows the total transaction amounts by category, based on customer
 
 ### 🔍 Visualization Snapshot
 
-<img width="1053" alt="Screenshot 2025-05-14 at 6 37 32 PM" src="https://github.com/user-attachments/assets/0a65de36-bd26-4c05-a918-db2807823010" />
+<img width="1064" alt="Screenshot 2025-05-14 at 6 55 46 PM" src="https://github.com/user-attachments/assets/1492ed98-508f-49ca-94a5-84dc1813baa1" />
+
 
 > Built using [Power BI Online](https://app.powerbi.com) on macOS  
 > Screenshot taken from one version of the generated data
